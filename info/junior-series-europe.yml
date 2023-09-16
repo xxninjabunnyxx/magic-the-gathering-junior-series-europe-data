@@ -1,0 +1,15 @@
+---
+object: set
+id: fd4b6116-533a-4e70-98df-f0131a67f1dc
+code: pjse
+name: Junior Series Europe
+uri: https://api.scryfall.com/sets/fd4b6116-533a-4e70-98df-f0131a67f1dc
+scryfall_uri: https://scryfall.com/sets/pjse
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apjse&unique=prints
+released_at: '2005-01-01'
+set_type: promo
+card_count: 8
+digital: false
+nonfoil_only: false
+foil_only: true
+icon_svg_uri: https://svgs.scryfall.io/sets/dci.svg?1694404800
